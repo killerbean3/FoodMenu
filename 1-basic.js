@@ -1,3 +1,4 @@
+//GitHub - @killerbean3 - FoodMenu-Javascript
 //basic version, not used but availble to look at
 
 //array of items
