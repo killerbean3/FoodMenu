@@ -1,3 +1,4 @@
+//GitHub - @killerbean3 - FoodMenu-Javascript
 //array of items
 const menu = [
   {
